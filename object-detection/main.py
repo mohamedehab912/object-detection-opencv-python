@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 detecting = "bottle"
-
+#sS
 # Function to calculate distance between two points
 def calculate_distance(point1, point2):
     return np.sqrt((point1[0] - point2[0])**2 + (point1[1] - point2[1])**2)
